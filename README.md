@@ -1,4 +1,4 @@
-# スポンサードしてくれ〜(Please Sponsored)
+# スポンサード(Please Sponsored)
 - react-native-simple-twitter
 - react-native-store-version
 
